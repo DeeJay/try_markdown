@@ -23,6 +23,6 @@ Experimenting with Markdown as a way of maintaining FAQs
 |Red   |2         |
 |Orange|3         |
 |Yellow|4         |
-|Grren |5         |
+|Green |5         |
 |Blue  |6         |
 |Indigo|7         |
