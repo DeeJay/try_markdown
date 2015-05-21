@@ -6,7 +6,7 @@ Experimenting with Markdown as a way of maintaining FAQs
 ### A converted Coding2Learn resource
 
 [Resistors](http://en.wikipedia.org/wiki/Resistor) are so exciting I can barely contain myself.
-![Resistors](http://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg)
+![alt text](http://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg "A resistor")
 
 > WOW Resistors are great
 
